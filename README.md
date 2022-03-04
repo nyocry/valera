@@ -1,0 +1,1 @@
+![example workflow](https://github.com/404moon/valera/actions/workflows/main.yml/badge.svg)
